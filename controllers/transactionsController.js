@@ -1,6 +1,6 @@
 import axios from "axios";
 import { ETHER_API } from "../utils/api.js";
-import Transaction from "../models/transactions.js";
+import Transaction from "../models/Transactions.js"
 import EthereumPrice from "../models/EthereumPrice.js";
 
 const TransactionsController = {
